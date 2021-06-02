@@ -421,6 +421,13 @@ body .full-width {
     }
 }
 
+@media (max-width: 350px) {
+
+    h2 {
+        font-size: 3rem;
+    }
+}
+
 table {
     min-width: 36rem;
     width: 100%;
