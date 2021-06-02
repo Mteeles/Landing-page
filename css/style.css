@@ -421,6 +421,12 @@ body .full-width {
     }
 }
 
+@media (max-width: 450px) {
+    h2 {
+        font-size: 3.5rem;
+    }
+}
+
 @media (max-width: 350px) {
 
     h2 {
